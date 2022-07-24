@@ -28,7 +28,7 @@ Need to complete the following challenges.
    - Challenge 4: There are a number of Kubernetes objects created inside the omega, citadel and eden-prime namespaces. However, several suspicious/abnormal operations have been observed in these namespaces!. For example, in the citadel namespace, the application called webapp-color is constantly changing! You can see this for yourself by clicking on the citadel-webapp link and refreshing the page every 30 seconds. Similarly there are other issues with several other objects in other namespaces. To understand what's causing these anomalies, you would be required to configure auditing in Kubernetes and make use of the Falco tool.
    
 
-5. [Challenge_5]()
+5. [Challenge_5](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C5/Challenge5.PNG)
    - Challenge 5: Coming Soon
 
 Click above each link to see my walkthrough.
