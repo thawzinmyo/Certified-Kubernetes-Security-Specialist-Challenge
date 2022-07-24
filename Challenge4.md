@@ -2,7 +2,7 @@
 
 Here is the architecture for Challenge 4.
 
-![Architecture]()
+![Challenge4_Architecture](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C4/Challenge4_Head.PNG)
 
 - It's Free and here is the link for "[CKS Challenges](https://kodekloud.com/courses/cks-challenges/)"
 - Participate challenges for CKS Exam preparation or Hands-on. Be enjoy learning and practing, Good Luck!
@@ -1073,7 +1073,7 @@ After all final verify, let's press `Check` button to verify success or not.
 
 Cheer up! It's all success.
 
-![Challenge4_Complete_Architecture]()
+![Challenge4_Complete_Architecture](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C4/Challenge4_Complete.PNG)
 
 
 
