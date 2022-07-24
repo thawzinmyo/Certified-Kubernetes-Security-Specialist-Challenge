@@ -11,6 +11,7 @@ Here is the architecture for Challenge 4.
 ---
 
 I spend a lot of time on this Challenge4 with single misconfiguration YAML file. I success that Challenge4 at 23_07_2022 12:30 PM. I spent at 22_07_2022 (After work hour - 18:00 PM - 22:00 PM), 21_07_2022 (After work hour - 17:00 PM - 23:00 PM). Total 11 hours on that single misconfiguration. Yeah, finally, I can solve it.
+Here is my misconfiguration error [Tasks not completed error image!](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C4/Challenge4_Issue.PNG) 
 
 Before you go to solve, let quick check overall in this `Single Node K8s cluster`.
 
