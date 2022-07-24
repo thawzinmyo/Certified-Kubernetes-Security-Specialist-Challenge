@@ -2,7 +2,7 @@
 
 After working hour, need to rest but I didn't take because of that amazing challenge. Okay, let's start the challenge.
 
-![Challenge3_Architecture]()
+![Challenge3_Architecture](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C3/Challenge3_Head.PNG)
 
 
 - It's Free and here is the link for "[CKS Challenges](https://kodekloud.com/courses/cks-challenges/)"
@@ -1283,4 +1283,4 @@ Connection to node01 closed.
 
 Now, to press click the `Check` button. You will see all suuceess. Now, let's go to Challenge4.
 
-![Challenge3_Complete_Architecture]()
+![Challenge3_Complete_Architecture](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C3/Challenge3_Complete.PNG)
