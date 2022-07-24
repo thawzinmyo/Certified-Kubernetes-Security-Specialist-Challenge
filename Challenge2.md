@@ -2,7 +2,7 @@
 
 When you press each icon in the architecture, will see the questions.
 
-![Challenge2_Architecture]()
+![Challenge2_Architecture](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C2/Challenge2_Head.PNG)
 
 - It's Free and here is the link for "[CKS Challenges](https://kodekloud.com/courses/cks-challenges/)"
 - Participate challenges for CKS Exam preparation or Hands-on. Be enjoy learning and practing, Good Luck!
@@ -1292,7 +1292,7 @@ BOM!!!
 
 All are correct!
 
-![Challenge2_Complete_Architecture]()
+![Challenge2_Complete_Architecture](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C2/Challenge2_Complete.PNG)
 
 
 
