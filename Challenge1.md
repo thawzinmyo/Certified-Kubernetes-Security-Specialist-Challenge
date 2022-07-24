@@ -2,7 +2,7 @@
 
 Let's start the first question. Here is the architecture!
 
-![Architecture]()
+![Architecture](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C1/Challenge1_Head.PNG)
 
 - It's Free and here is the link for "[CKS Challenges](https://kodekloud.com/courses/cks-challenges/)"
 - Participate challenges for CKS Exam preparation or Hands-on. Be enjoy learning and practing, Good Luck!
@@ -822,4 +822,4 @@ Finally, time to press final "Check" button. Let's do it.
 Bomb!!! Bomb!!! Bomb!!!
 It's complete successfully.
 
-![Challenge1_Complete_Architecture]()
+![Challenge1_Complete_Architecture](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/C1/Challenge1_Completion.PNG)
