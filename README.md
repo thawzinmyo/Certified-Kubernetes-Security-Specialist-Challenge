@@ -1,4 +1,4 @@
-# Certified Kubernetes Security Specialist Challange Walkthrough!!!
+# Certified Kubernetes Security Specialist Challanges Walkthrough!!!
 
 KodeKloud announced CKS Challanges last two months that I saw on LinkedIn. When they challange fot that, I want to participate immediately! But on that time, I faced some lost in life. I can't concentrate for that. So, I can't take time for that challenges. After that time passed, I start for that **Challenges** which challenging on Kubernetes Security to solve using third party tools or native ways. Yeah, let's check the overview.
 
