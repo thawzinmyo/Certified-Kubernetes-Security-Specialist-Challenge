@@ -34,3 +34,6 @@ Need to complete the following challenges.
 Click above each link to see my walkthrough.
 
 I got a lot of hands-on experience and theory from these CKS challenges. I have learned new tools such as "[Auqasec Trivy](https://www.aquasec.com/products/trivy/) - [GitHub Source for trivy](https://github.com/aquasecurity/trivy)", "[Kubesec](https://kubesec.io/)", "[Falco](https://sysdig.com/opensource/falco/)", "[Kube Bench](https://github.com/aquasecurity/kube-bench)", "[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)" and "[AppArmor](https://apparmor.net/)". I solved network policy tricks, RBAC, seccomp, Kube-APISERVER's health, Static YAML tricks, scanning the YAML File and image vulnerability, "[Auditing](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)" etc. Click each link for more details walkthrough ...
+
+Edited: 01092022
+Here is [the prize winner announced by KodeKloud](https://github.com/thawzinmyo/Certified-Kubernetes-Security-Specialist-Challenge/blob/master/image/CKS%20Intro/CKS%20Challenges%20Winners.png)
